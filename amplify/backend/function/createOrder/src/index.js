@@ -1,5 +1,5 @@
 const { v4: uuidv4 } = require("uuid");
-const AWS = require("aws-sdk");
+const AWS = require("../../processPayment/src/node_modules/aws-sdk");
 const documentClient = new AWS.DynamoDB.DocumentClient();
 
 const ORDER_TABLE = "<order_table_name>";

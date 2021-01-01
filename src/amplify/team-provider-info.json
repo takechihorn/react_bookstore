@@ -1,0 +1,14 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reactbookstore-dev-11525-authRole",
+      "UnauthRoleArn": "arn:aws:iam::213330998827:role/amplify-reactbookstore-dev-11525-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::213330998827:role/amplify-reactbookstore-dev-11525-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-reactbookstore-dev-11525-deployment",
+      "UnauthRoleName": "amplify-reactbookstore-dev-11525-unauthRole",
+      "StackName": "amplify-reactbookstore-dev-11525",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:213330998827:stack/amplify-reactbookstore-dev-11525/13aa5c90-49f1-11eb-913d-0eae5b697161"
+    }
+  }
+}
